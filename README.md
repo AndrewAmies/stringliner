@@ -1,2 +1,2 @@
 # stringliner
-Javascript package to turn multi-line strings into arrays of single-line strings
+Javascript package to turn a multi-line string into an array of trimmed single-line strings
